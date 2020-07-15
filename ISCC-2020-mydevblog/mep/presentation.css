@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "IndieFlower";
+    src: url("IndieFlower-Regular.ttf") format("truetype")
+}
+@font-face {
+    font-family: "Montserrat";
+    src: url("Montserrat-Regular.ttf") format("truetype")
+}
+@font-face {
+    font-family: "OpenSans";
+    src: url("OpenSans-Regular.ttf") format("truetype")
+}
+@font-face {
+    font-family: "Cinzel";
+    src: url("Cinzel-Regular.ttf") format("truetype")
+}
+@font-face {
+    font-family: "AbrilFatface";
+    src: url("AbrilFatface-Regular.ttf") format("truetype")
+}
+body {
+    font-size: 14px;
+    background-color: #27d1ff;
+    text-align: center
+}
+header {
+    font-family: "IndieFlower";
+    height: 100px;
+    text-align: center;
+}
+h1 {
+    font-family: "Cinzel";
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+h2 {
+    font-family: "Montserrat";
+    color: #cc7715;
+}
+a, nav {
+    display: inline-block;
+    color: white;
+    padding-right: 50px;
+    margin: 0px;
+    text-align: right;
+    vertical-align: middle;
+    text-decoration: none;
+}
+footer {
+    font-family: "IndieFlower";
+    height: 100px;
+    text-align: center;
+}
+ul {
+    font-family: "AbrilFatface";
+    font-size: 18px;
+    text-align: left;
+    color: grey;
+}
+h3 {
+    font-family: "Cinzel";
+    color: #d44c2ae5;
+}
