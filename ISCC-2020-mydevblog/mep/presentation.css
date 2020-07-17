@@ -52,13 +52,20 @@ footer {
     height: 100px;
     text-align: center;
 }
-ul {
+div {
     font-family: "AbrilFatface";
-    font-size: 18px;
+    font-size: 30px;
     text-align: left;
     color: grey;
 }
 h3 {
     font-family: "Cinzel";
     color: #d44c2ae5;
+    font-size: 20px;
+}
+h4 {
+    font-family: "Montserrat";
+    font-size: 15px;
+    color: white;
+    text-align: center;
 }
